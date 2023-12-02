@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C ++**
 
-- 💬 Ask me about **Python, C, Lua and LÖVE2d**
+- 💬 Ask me about **Python, C, C++, Lua and LÖVE2d**
 
 - 📫 How to reach me **guilherme.f.peruci@gmail.com**
 
