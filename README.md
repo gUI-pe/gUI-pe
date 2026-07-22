@@ -11,13 +11,17 @@ Você pode listar as habilidades que desenvolveu no README.md do seu perfil pess
 
 - ⚡ Fun fact **I am funny**
 
+
+
 <h3 align="left">Currently working on:</h3>
+
 <h2 align="left">Personal Agent:</h2>
-- **AI & Autonomous Agents:** Hermes Agent Framework, Tool Calling, Multi-LLM Provider Integration.
-- **LLM Providers & Infrastructure:** NVIDIA NIM (DGX Cloud), OpenRouter API, Custom System Prompts.
-- **DevOps & Cloud:** Docker, Docker Compose, Linux VPS Administration, Coolify, s6-overlay.
-- **Knowledge Base & Workflows:** Obsidian (Markdown-based memory), Git Automation, Scheduled Cron Jobs.
-- **Version Control & Security:** GitHub Fine-Grained Access Tokens, Branch Protection, Automated PR Workflows.
+
+- AI & Autonomous Agents: Hermes Agent Framework, Tool Calling, Multi-LLM Provider Integration.
+- LLM Providers & Infrastructure: NVIDIA NIM (DGX Cloud), OpenRouter API, Custom System Prompts.
+- DevOps & Cloud: Docker, Docker Compose, Linux VPS Administration, Coolify, s6-overlay.
+- Knowledge Base & Workflows: Obsidian (Markdown-based memory), Git Automation, Scheduled Cron Jobs.
+- Version Control & Security: GitHub Fine-Grained Access Tokens, Branch Protection, Automated PR Workflows.
 <p align="left">
 </p>
 
