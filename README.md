@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)
+Você pode listar as habilidades que desenvolveu no README.md do seu perfil pessoal (o repositório especial que tem o mesmo nome do seu usuário gUI-pe/gUI-pe). O seu perfil é público e serve como o seu cartão de visitas.[![MasterHead](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)
 <h1 align="center">Hi 👋, I'm Guilherme Peruci</h1>
 <h3 align="center">A passionate university student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,13 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Currently working on:</h3>
+<h2 align="left">Personal Agent:</h2>
+- **AI & Autonomous Agents:** Hermes Agent Framework, Tool Calling, Multi-LLM Provider Integration.
+- **LLM Providers & Infrastructure:** NVIDIA NIM (DGX Cloud), OpenRouter API, Custom System Prompts.
+- **DevOps & Cloud:** Docker, Docker Compose, Linux VPS Administration, Coolify, s6-overlay.
+- **Knowledge Base & Workflows:** Obsidian (Markdown-based memory), Git Automation, Scheduled Cron Jobs.
+- **Version Control & Security:** GitHub Fine-Grained Access Tokens, Branch Protection, Automated PR Workflows.
 <p align="left">
 </p>
 
