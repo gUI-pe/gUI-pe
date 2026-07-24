@@ -1,4 +1,4 @@
-Você pode listar as habilidades que desenvolveu no README.md do seu perfil pessoal (o repositório especial que tem o mesmo nome do seu usuário gUI-pe/gUI-pe). O seu perfil é público e serve como o seu cartão de visitas.[![MasterHead](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)
+[![MasterHead](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)](https://github.com/gUI-pe/MyGame/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.png)
 <h1 align="center">Hi 👋, I'm Guilherme Peruci</h1>
 <h3 align="center">A passionate university student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
